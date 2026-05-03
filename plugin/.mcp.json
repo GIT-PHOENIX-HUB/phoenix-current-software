@@ -1,7 +1,10 @@
 {
   "servicefusion": {
     "command": "node",
-    "args": ["--experimental-specifier-resolution=node", "/Users/shanewarehime/GitHub/phoenix-ai-core-staging/packages/servicefusion-mcp/dist/index.js"],
+    "args": [
+      "--experimental-specifier-resolution=node",
+      "/Users/shanewarehime/Documents/GIT-PHOENIX-HUB/phoenix-current-software/packages/mcp-server/dist/index.js"
+    ],
     "env": {
       "AZURE_KEY_VAULT_URI": "https://phoenixaaivault.vault.azure.net/"
     }
